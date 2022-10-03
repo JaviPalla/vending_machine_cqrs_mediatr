@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32616.157
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Outthink_VendingMachine", "Outthink_VendingMachine\Outthink_VendingMachine.csproj", "{CEBF2B06-2B84-43D9-BC64-18F1636E10D4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Outthink_VendingMachine_API", "Outthink_VendingMachine_API\Outthink_VendingMachine_API.csproj", "{9C21F277-064B-4185-A3BC-72C57C1030BD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CEBF2B06-2B84-43D9-BC64-18F1636E10D4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CEBF2B06-2B84-43D9-BC64-18F1636E10D4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CEBF2B06-2B84-43D9-BC64-18F1636E10D4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CEBF2B06-2B84-43D9-BC64-18F1636E10D4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9C21F277-064B-4185-A3BC-72C57C1030BD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9C21F277-064B-4185-A3BC-72C57C1030BD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9C21F277-064B-4185-A3BC-72C57C1030BD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9C21F277-064B-4185-A3BC-72C57C1030BD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B3B32E80-4D46-4C6D-8BDC-F97C3F376F7C}
+	EndGlobalSection
+EndGlobal
